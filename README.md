@@ -1,4 +1,4 @@
-# Laravel Next.js Starter Kit
+# Laravel Next.js MarketPlace
 
 Find the official documentation at [ln-starterkit.com](https://ln-starterkit.com)
 
@@ -209,9 +209,6 @@ If you want to build a production ready application you probably want to include
 
 To set it up in your app, all you have to do is navigate to `/client/.env.local` and paste you GTM id (typically starts with „GTM-…“) as the value for the `NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID`. If you do not set this value, the GTM script will simply not be fired. No big deal.
 
-## Contact
-
-If you have feedback, questions or anything else, feel free to leave me a mail under niclastimmdev@gmail.com or hit me up on Twitter under @niclas_timm. Looking forward to hearing from you :).
 
 ## License
 
